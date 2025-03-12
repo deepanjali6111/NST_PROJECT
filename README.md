@@ -4,7 +4,6 @@
 
 
 
-Here's a concise **step-by-step README** for your Neural Style Transfer project:
 
 ---
 
